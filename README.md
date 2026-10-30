@@ -1,10 +1,10 @@
-# World-Isolation-Mechanism
+# Worldview-Isolation-Mechanism
 
 世界观隔离机制??? 欸嘿, 原作者不维护了? 没事, 我来维护
 
 由于原文不符合各种规范, 我在维护时还会做一点格式化
 
-#### 原文 zh-cn
+## 原文 zh-cn
 
 粘贴使用, 格式换为了 纯文本文档 (Plain Text)
 
