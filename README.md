@@ -4,7 +4,7 @@
 
 由于原文不符合各种规范, 我在维护时还会做一点格式化
 
-## 活跃维护者的免责声明
+### 活跃维护者的免责声明
 
 所有维护者**不保留所有权利**
 
@@ -14,7 +14,7 @@
 
 ![授权](image.png)
 
-## 原文 zh-cn
+### [原文 zh-cn](mechanism/Mechanism.zh-cn)
 
 粘贴使用, 格式换为了 纯文本文档 (Plain Text)
 
@@ -77,7 +77,7 @@ Worldview-Isolation-Mechanism “世界观隔离”机制
 机制伤害他人及他人OC造成任何生理，心理上的伤害，原作者概不负责。 项目原作者：FurryHuiYao/Furry晖曜
 ```
 
-## Original Text en-us
+### [Original Text en-us](mechanism/Mechanism.en-us)
 
 ```
 Notice on "Stop Over-engineering"
