@@ -82,23 +82,52 @@ Worldview-Isolation-Mechanism “世界观隔离”机制
 ```
 Notice on "Stop Over-engineering"
 
-In the fields of software development and engineering, there is a well-known principle called the KISS principle (Keep It Simple, Stupid), and "Stop Over-engineering" is the core embodiment of it.
-To put it in plain language: don't pile up complex features that are completely useless just to show off your skills, to pursue so-called "perfect defense," or to achieve "absolute rigor." Because every time you add a feature or write a rule, you introduce new bugs (vulnerabilities).
+In the fields of software development and engineering, there is a well-known principle 
+called the KISS principle (Keep It Simple, Stupid), and "Stop Over-engineering" is the 
+core embodiment of it.
+
+To put it in plain language: don't pile up complex features that are completely useless 
+just to show off your skills, to pursue so-called "perfect defense," or to achieve 
+"absolute rigor." Because every time you add a feature or write a rule, you introduce 
+new bugs (vulnerabilities).
 
 What Have I Realized?
 
-I have observed many character settings, and they all share a common trait: the defensiveness (or aggressiveness) of many things is inversely proportional to their stability (and overall maintenance difficulty). My mechanism happens to strike a balance where defensiveness and stability are roughly equal. The more combat power you stack, the more logic you add, and the more loopholes you create. The same applies to my "Worldview Isolation" mechanism. The more I write, the more loopholes my mechanism develops. Every update I make must withstand logical scrutiny and tests from various tricky angles. I need to prevent self-contradictions and prevent grammatical errors (such as mixed sentence structures). Once absolute settings are specifically described, they inevitably contain logical loopholes. This can lead to increasingly deep logical nesting, and the maintenance cost (computational resources) for the settings will become greater and greater. For example, throwing a logic puzzle similar to the "Barber paradox" at them:
+I have observed many character settings, and they all share a common trait: the defensiveness 
+(or aggressiveness) of many things is inversely proportional to their stability (and overall 
+maintenance difficulty). My mechanism happens to strike a balance where defensiveness and 
+stability are roughly equal. The more combat power you stack, the more logic you add, and the 
+more loopholes you create. The same applies to my "Worldview Isolation" mechanism. The more I 
+write, the more loopholes my mechanism develops. Every update I make must withstand logical 
+scrutiny and tests from various tricky angles. I need to prevent self-contradictions and prevent 
+grammatical errors (such as mixed sentence structures). Once absolute settings are specifically 
+described, they inevitably contain logical loopholes. This can lead to increasingly deep logical 
+nesting, and the maintenance cost (computational resources) for the settings will become greater 
+and greater. For example, throwing a logic puzzle similar to the "Barber paradox" at them:
 
-"Excuse me, can your [Absolute Instant Kill] instantly kill yourself when you are in an [Absolute Invincibility] state?"
+"Excuse me, can your [Absolute Instant Kill] instantly kill yourself when you are in an [Absolute 
+Invincibility] state?"
 
-If they answer "yes," then they have killed themselves; if they answer "no," then it's not an absolute instant kill. This will immediately trigger a logical deadlock.
+If they answer "yes," then they have killed themselves; if they answer "no," then it's not an 
+absolute instant kill. This will immediately trigger a logical deadlock.
 
-Initially, I designed "Worldview Isolation" to prevent cross-universe power debates. But if, to counter the guy who is "immune to everything," I also start writing "immune to his immunity," "my rules are higher than your rules," "my authority overrides your authority"... this is called over-engineering.
+Initially, I designed "Worldview Isolation" to prevent cross-universe power debates. But if, to 
+counter the guy who is "immune to everything," I also start writing "immune to his immunity," 
+"my rules are higher than your rules," "my authority overrides your authority"... this is called 
+over-engineering.
 
-My mechanism would become increasingly bloated, the word count would explode, and the logic would contradict itself (preventing grammatical errors and mutual exclusions is extremely painful). I would fall into a death spiral of "power inflation," commonly known as an endless cycle of power escalation.
-In the OC (Original Character) community, the debate community, and even in fanfiction/original fiction circles, appropriate "leaving blank" is always more sophisticated than "stuffing it full."
+My mechanism would become increasingly bloated, the word count would explode, and the logic would 
+contradict itself (preventing grammatical errors and mutual exclusions is extremely painful). I 
+would fall into a death spiral of "power inflation," commonly known as an endless cycle of power 
+escalation.
 
-Here, I solemnly express my gratitude once again to the OC creators who have chosen and supported the "Worldview Isolation" mechanism. I wish you will never be bullied by those unreasonable people and their hyper-aggressive OCs. The maintenance of my "Worldview Isolation" mechanism is inseparable from all of you! May we reunite on the ice field.
+In the OC (Original Character) community, the debate community, and even in fanfiction/original 
+fiction circles, appropriate "leaving blank" is always more sophisticated than "stuffing it full."
+
+Here, I solemnly express my gratitude once again to the OC creators who have chosen and supported 
+the "Worldview Isolation" mechanism. I wish you will never be bullied by those unreasonable people 
+and their hyper-aggressive OCs. The maintenance of my "Worldview Isolation" mechanism is inseparable 
+from all of you! May we reunite on the ice field.
 
 FurryHuiYao/Furry晖曜 2026/10/18
 
@@ -106,18 +135,32 @@ FurryHuiYao/Furry晖曜 2026/10/18
 
 "Worldview Isolation" Mechanism
 
-An old saying goes, "The one who takes you out might not be your peer, but someone from a completely different field." This applies equally to cross-universe debates. My OC is completely just an ordinary person, or rather, a wolf-dragon furry (I'm in the furry fandom, and I don't want my OC to get hurt). This might not mean much to debaters, but what if the other person doesn't like being debated in this way? What if it makes them feel bad, or even depressed? What should we do then?
+An old saying goes, "The one who takes you out might not be your peer, but someone from a completely 
+different field." This applies equally to cross-universe debates. My OC is completely just an ordinary 
+person, or rather, a wolf-dragon furry (I'm in the furry fandom, and I don't want my OC to get hurt). 
+This might not mean much to debaters, but what if the other person doesn't like being debated in this 
+way? What if it makes them feel bad, or even depressed? What should we do then?
 
-2D magical girls, cultivation web novel emperors, Cthulhu mythos Outer Gods, SCP Foundation, or even Thanos from the Marvel Universe... how can you compare these? This is completely like talking across different servers with different "measuring scales," talking past each other.
+2D magical girls, cultivation web novel emperors, Cthulhu mythos Outer Gods, SCP Foundation, or even 
+Thanos from the Marvel Universe... how can you compare these? This is completely like talking across 
+different servers with different "measuring scales," talking past each other.
 
-My purpose is to "refuse to adapt to the opponent's worldview," otherwise this issue will bring about an imbalance of strength between the two sides during debates, or a case of incompatibility. I designed the first version of the "Worldview Synchronization" mechanism (to learn more about the past and present of the first version, please see the "Worldview Isolation" introduction page for details).
+My purpose is to "refuse to adapt to the opponent's worldview," otherwise this issue will bring about 
+an imbalance of strength between the two sides during debates, or a case of incompatibility. I designed 
+the first version of the "Worldview Synchronization" mechanism (to learn more about the past and present 
+of the first version, please see the "Worldview Isolation" introduction page for details).
 
-This is just something used to prevent debates. Let me give some examples: "My OC can destroy the universe!" "My OC is absolutely invincible!" These actually better express what I want to say:
+This is just something used to prevent debates. Let me give some examples: "My OC can destroy the 
+universe!" "My OC is absolutely invincible!" These actually better express what I want to say:
+
 "Our worldviews are completely different, what's the point of you talking to me about this?"
 
 ==========================================
 
 Disclaimer:
 
-The author created this "Worldview Isolation" mechanism without any intention of encouraging debates, nor does it encourage using this mechanism as a weapon to harm others and their OCs. If you use this mechanism to harm others and their OCs, causing any physical or psychological damage, the original author shall not be held responsible. Original author of the project: FurryHuiYao/Furry晖曜
+The author created this "Worldview Isolation" mechanism without any intention of encouraging debates, 
+nor does it encourage using this mechanism as a weapon to harm others and their OCs. If you use this 
+mechanism to harm others and their OCs, causing any physical or psychological damage, the original 
+author shall not be held responsible. Original author of the project: FurryHuiYao/Furry晖曜
 ```
